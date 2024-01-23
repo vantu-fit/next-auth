@@ -35,6 +35,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [Shadcnui](https://shadcnui.com/) 
 - [Prisma](https://www.prisma.io/)
 - [Auth.js v5](https://next-auth.js.org/)
+- [Resend](https://resend.com/login?redirectedFrom=%2Femails%2Fafa7b084-ee3a-49b8-8f4b-d405be0c5cb5)
 - [Supabase](https://supabase.io/)
 - [React-icons](https://react-icons.github.io/react-icons/)
 - [React-spinner](https://www.npmjs.com/package/react-spinners)
